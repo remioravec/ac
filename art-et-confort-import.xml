@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+
+<channel>
+  <title>Art et Confort</title>
+  <link>https://art-et-confort.com</link>
+  <description>Plombier Chauffagiste Lens et Bethune - Art et Confort</description>
+  <language>fr-FR</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+
+  <!-- ============================================ -->
+  <!-- CATEGORIES (pour les silos du cocon)         -->
+  <!-- ============================================ -->
+  <wp:category>
+    <wp:term_id>1</wp:term_id>
+    <wp:category_nicename>installation</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[Installation]]></wp:cat_name>
+  </wp:category>
+  <wp:category>
+    <wp:term_id>2</wp:term_id>
+    <wp:category_nicename>entretien</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[Entretien]]></wp:cat_name>
+  </wp:category>
+  <wp:category>
+    <wp:term_id>3</wp:term_id>
+    <wp:category_nicename>depannage</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[Depannage]]></wp:cat_name>
+  </wp:category>
+  <wp:category>
+    <wp:term_id>4</wp:term_id>
+    <wp:category_nicename>plomberie-sanitaire</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[Plomberie Sanitaire]]></wp:cat_name>
+  </wp:category>
+  <wp:category>
+    <wp:term_id>5</wp:term_id>
+    <wp:category_nicename>a-propos</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[A propos]]></wp:cat_name>
+  </wp:category>
+
+  <!-- ============================================ -->
+  <!-- PAGE : ACCUEIL                               -->
+  <!-- ============================================ -->
+  <item>
+    <title>Accueil</title>
+    <link>https://art-et-confort.com/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Plombier Chauffagiste à Lens et Béthune - Art et Confort</h1>
+
+<p><strong>Art et Confort</strong>, c'est plus de <strong>15 ans d'expérience</strong> en plomberie et chauffage au service des particuliers du Bassin Minier. François Watrelot, votre artisan <strong>certifié RGE</strong>, intervient à <strong>Lens, Béthune, Arras</strong> et dans tout le Pas-de-Calais (62) pour vos installations, entretiens, dépannages et rénovations.</p>
+
+<h2>Nos services</h2>
+
+<h3>Installation</h3>
+<p>Pompe à chaleur, chaudière gaz ou granulés, climatisation réversible, poêles et inserts, panneaux solaires... Nous dimensionnons et installons votre équipement pour un <strong>confort optimal et des économies d'énergie durables</strong>.</p>
+<ul>
+<li><a href="/installation-pompe-a-chaleur-lens-bethune/">Installation de pompe à chaleur (PAC)</a></li>
+<li><a href="/pose-remplacement-chaudiere-lens-bethune/">Pose et remplacement de chaudière</a></li>
+<li><a href="/installation-climatisation-reversible-lens-bethune/">Installation de climatisation réversible</a></li>
+<li><a href="/installation-poeles-inserts-lens-bethune/">Installation de poêles et inserts</a></li>
+<li><a href="/panneaux-solaires-photovoltaiques-lens-bethune/">Pose de panneaux solaires photovoltaïques</a></li>
+<li><a href="/installateur-rge-lens-bethune/">Installateur RGE Lens et Béthune</a></li>
+</ul>
+
+<h3>Entretien</h3>
+<p>Un équipement bien entretenu, c'est une <strong>durée de vie prolongée</strong>, des <strong>factures réduites</strong> et une <strong>sécurité garantie</strong>. Nous proposons des contrats d'entretien annuels adaptés à votre installation.</p>
+<ul>
+<li><a href="/contrat-entretien-chaudiere-lens-bethune/">Contrat d'entretien chaudière</a></li>
+<li><a href="/entretien-pompe-a-chaleur-lens-bethune/">Entretien de pompe à chaleur</a></li>
+<li><a href="/entretien-climatisation-lens-bethune/">Entretien climatisation</a></li>
+<li><a href="/ramonage-entretien-poeles-inserts-lens-bethune/">Ramonage et entretien poêles et inserts</a></li>
+<li><a href="/entretien-chauffe-eau-vmc-lens-bethune/">Entretien chauffe-eau et VMC</a></li>
+</ul>
+
+<h3>Dépannage</h3>
+<p>Panne de chauffage, fuite, chaudière en défaut ? <strong>Intervention rapide sous 24h</strong> sur Lens, Béthune et le Bassin Minier. Diagnostic précis, réparation efficace.</p>
+<ul>
+<li><a href="/depannage-chauffage-urgence-lens-bethune/">Dépannage chauffage en urgence</a></li>
+<li><a href="/reparation-chaudiere-en-panne-lens-bethune/">Réparation chaudière en panne</a></li>
+<li><a href="/depannage-pompe-a-chaleur-lens-bethune/">Dépannage pompe à chaleur</a></li>
+<li><a href="/reparation-climatisation-lens-bethune/">Réparation climatisation</a></li>
+<li><a href="/depannage-poele-a-granules-lens-bethune/">Dépannage poêle à granulés</a></li>
+</ul>
+
+<h3>Plomberie et Sanitaire</h3>
+<p>De la réparation de fuite à la <strong>rénovation complète de salle de bain</strong>, nous couvrons tous vos besoins en plomberie avec rigueur et transparence.</p>
+<ul>
+<li><a href="/plombier-lens-bethune/">Plombier à Lens et Béthune</a></li>
+<li><a href="/renovation-salle-de-bain-lens-bethune/">Création et rénovation de salle de bain</a></li>
+<li><a href="/remplacement-chauffe-eau-lens-bethune/">Remplacement de chauffe-eau</a></li>
+<li><a href="/reseaux-eau-sanitaires-lens-bethune/">Réseaux d'eau et sanitaires</a></li>
+</ul>
+
+<h2>Pourquoi choisir Art et Confort ?</h2>
+<ul>
+<li><strong>+ de 15 ans d'expérience</strong> en plomberie et chauffage</li>
+<li><strong>Artisan certifié RGE</strong> : éligible aux aides MaPrimeRénov', CEE</li>
+<li><strong>Intervention rapide</strong> sous 24h sur Lens, Béthune et environs</li>
+<li><strong>Devis gratuit, clair et sans surprise</strong></li>
+<li><strong>Un seul interlocuteur</strong> du début à la fin de votre projet</li>
+<li><strong>Avis clients 5 étoiles</strong> sur Google</li>
+</ul>
+
+<h2>Notre zone d'intervention</h2>
+<p>Nous intervenons dans tout le <strong>Bassin Minier</strong> et l'<strong>Artois</strong> : Lens, Béthune, Arras, Liévin, Hénin-Beaumont, Avion, Bruay-la-Buissière, Nœux-les-Mines, Auchy-les-Mines et toutes les communes environnantes du Pas-de-Calais (62).</p>
+<p><a href="/zone-intervention-lens-bethune-artois/">Voir notre zone d'intervention complète</a></p>
+
+<h2>Contactez-nous</h2>
+<p><strong>Art et Confort - François Watrelot</strong><br>
+28 Rue Casimir Beugnet, 62138 Auchy-les-Mines<br>
+Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>accueil</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- SILO 1 : INSTALLATION                        -->
+  <!-- ============================================ -->
+
+  <!-- PAGE : Installation PAC -->
+  <item>
+    <title>Installation de Pompe à Chaleur (PAC) à Lens et Béthune</title>
+    <link>https://art-et-confort.com/installation-pompe-a-chaleur-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Installation de Pompe à Chaleur (PAC) à Lens et Béthune</h1>
+
+<p>Vous souhaitez <strong>remplacer votre chaudière par une pompe à chaleur</strong> à Lens, Béthune ou dans le Bassin Minier ? Art et Confort, artisan <strong>certifié RGE QualiPAC</strong>, vous accompagne dans le choix, le dimensionnement et l'installation de votre PAC air-eau ou air-air.</p>
+
+<h2>Pourquoi installer une pompe à chaleur ?</h2>
+<p>La pompe à chaleur est aujourd'hui la solution de chauffage la plus <strong>économique et écologique</strong> pour les maisons individuelles. En captant les calories de l'air extérieur, elle consomme jusqu'à <strong>3 fois moins d'énergie</strong> qu'un chauffage traditionnel.</p>
+<ul>
+<li><strong>Jusqu'à 70% d'économies</strong> sur votre facture de chauffage</li>
+<li><strong>Éligible aux aides</strong> : MaPrimeRénov', CEE, éco-PTZ</li>
+<li><strong>Confort en toute saison</strong> : chauffage en hiver, rafraîchissement en été (PAC réversible)</li>
+<li><strong>Valorisation de votre bien immobilier</strong> grâce à un meilleur DPE</li>
+</ul>
+
+<h2>Nos prestations d'installation PAC</h2>
+
+<h3>Étude et dimensionnement</h3>
+<p>Avant toute installation, nous réalisons une <strong>étude thermique complète</strong> de votre logement : surface, isolation, besoins en chauffage et eau chaude sanitaire. C'est la garantie d'un équipement correctement dimensionné et de performances optimales.</p>
+
+<h3>Installation PAC air-eau</h3>
+<p>La PAC air-eau est idéale pour <strong>remplacer une chaudière gaz ou fioul</strong>. Elle se raccorde directement à votre circuit de radiateurs ou plancher chauffant existant. Nous gérons l'intégralité de l'installation : pose de l'unité extérieure, raccordement hydraulique, mise en service et réglages.</p>
+
+<h3>Installation PAC air-air (climatisation réversible)</h3>
+<p>La PAC air-air combine chauffage et climatisation dans un seul appareil. Idéale en complément d'un chauffage existant ou pour les maisons bien isolées. <a href="/installation-climatisation-reversible-lens-bethune/">En savoir plus sur la climatisation réversible</a>.</p>
+
+<h2>Les aides financières pour votre PAC</h2>
+<p>En tant qu'<a href="/installateur-rge-lens-bethune/">installateur certifié RGE</a>, Art et Confort vous permet de bénéficier de toutes les aides en vigueur :</p>
+<ul>
+<li><strong>MaPrimeRénov'</strong> : jusqu'à 5 000 € selon vos revenus</li>
+<li><strong>Certificats d'Économies d'Énergie (CEE)</strong> : primes complémentaires</li>
+<li><strong>Éco-prêt à taux zéro</strong> : financement sans intérêts jusqu'à 50 000 €</li>
+<li><strong>TVA réduite à 5,5%</strong> sur la fourniture et la pose</li>
+</ul>
+<p>Nous vous accompagnons dans le montage de vos dossiers d'aides.</p>
+
+<h2>Pourquoi choisir Art et Confort pour votre PAC ?</h2>
+<ul>
+<li><strong>Certifié RGE QualiPAC</strong> : gage de qualité et accès aux aides</li>
+<li><strong>+ de 15 ans d'expérience</strong> en chauffage</li>
+<li><strong>Devis gratuit et détaillé</strong> sous 48h</li>
+<li><strong>Un seul interlocuteur</strong> : François Watrelot, du devis à la mise en service</li>
+<li><strong>SAV et entretien</strong> : nous assurons aussi la <a href="/entretien-pompe-a-chaleur-lens-bethune/">maintenance de votre PAC</a></li>
+</ul>
+
+<h2>Zone d'intervention</h2>
+<p>Nous installons des pompes à chaleur à <strong>Lens, Béthune, Arras, Liévin, Hénin-Beaumont, Bruay-la-Buissière, Nœux-les-Mines</strong> et dans tout le Pas-de-Calais. <a href="/zone-intervention-lens-bethune-artois/">Voir toutes les communes desservies</a>.</p>
+
+<h2>Demandez votre devis gratuit</h2>
+<p>Contactez Art et Confort pour une étude personnalisée de votre projet de pompe à chaleur.</p>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>installation-pompe-a-chaleur-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Pose et remplacement de chaudière -->
+  <item>
+    <title>Pose et Remplacement de Chaudière à Lens et Béthune</title>
+    <link>https://art-et-confort.com/pose-remplacement-chaudiere-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Pose et Remplacement de Chaudière à Lens et Béthune</h1>
+
+<p>Votre chaudière est vétuste, en panne répétée ou trop énergivore ? <strong>Art et Confort</strong> installe et remplace votre chaudière <strong>gaz, granulés ou fioul</strong> dans le Bassin Minier. Artisan <strong>certifié RGE</strong>, François Watrelot vous conseille la solution la plus adaptée à votre logement et à votre budget.</p>
+
+<h2>Quand faut-il remplacer sa chaudière ?</h2>
+<ul>
+<li>Votre chaudière a <strong>plus de 15 ans</strong></li>
+<li>Vos <strong>factures de chauffage augmentent</strong> sans raison apparente</li>
+<li>Vous constatez des <strong>pannes récurrentes</strong> ou des bruits inhabituels</li>
+<li>Le <strong>confort thermique est insuffisant</strong> dans certaines pièces</li>
+<li>Vous souhaitez passer à un <strong>équipement plus écologique</strong> (gaz condensation, granulés)</li>
+</ul>
+
+<h2>Nos solutions de chaudières</h2>
+
+<h3>Chaudière gaz à condensation</h3>
+<p>La chaudière gaz à condensation offre un <strong>rendement supérieur à 100%</strong> en récupérant la chaleur des fumées. C'est la solution idéale si vous êtes raccordé au réseau de gaz naturel. Économique à l'usage et compatible avec vos radiateurs existants.</p>
+
+<h3>Chaudière à granulés (pellets)</h3>
+<p>Le chauffage aux granulés de bois est une <strong>alternative écologique et économique</strong>. Le prix du granulé reste stable et nettement inférieur au gaz ou au fioul. Nous installons des chaudières à granulés automatiques avec silo de stockage.</p>
+
+<h3>Remplacement chaudière fioul</h3>
+<p>L'installation de nouvelles chaudières fioul est interdite depuis 2022. Nous vous accompagnons dans la <strong>transition vers une solution plus propre</strong> : <a href="/installation-pompe-a-chaleur-lens-bethune/">pompe à chaleur</a>, chaudière gaz condensation ou granulés.</p>
+
+<h2>Notre méthode d'installation</h2>
+<ol>
+<li><strong>Visite technique gratuite</strong> : évaluation de votre installation actuelle</li>
+<li><strong>Devis détaillé</strong> : fourniture, pose, raccordements et mise en service</li>
+<li><strong>Installation soignée</strong> : dépose de l'ancienne chaudière, pose du nouvel équipement, raccordements gaz/eau/électricité</li>
+<li><strong>Mise en service et réglages</strong> : test complet et formation à l'utilisation</li>
+<li><strong>Certificat de conformité</strong> et dossiers d'aides</li>
+</ol>
+
+<h2>Aides financières</h2>
+<p>En tant qu'<a href="/installateur-rge-lens-bethune/">artisan RGE</a>, nous vous donnons accès à :</p>
+<ul>
+<li><strong>MaPrimeRénov'</strong> pour le remplacement de chaudière</li>
+<li><strong>CEE (Certificats d'Économies d'Énergie)</strong></li>
+<li><strong>TVA à 5,5%</strong> sur la fourniture et la main-d'œuvre</li>
+<li><strong>Éco-PTZ</strong> jusqu'à 50 000 €</li>
+</ul>
+
+<h2>Pourquoi choisir Art et Confort ?</h2>
+<ul>
+<li>Artisan <strong>certifié RGE Professionnel du Gaz</strong></li>
+<li><strong>Toutes marques</strong> : Atlantic, Frisquet, De Dietrich, Saunier Duval, ÖkoFEN</li>
+<li>Garantie constructeur + garantie de pose</li>
+<li><a href="/contrat-entretien-chaudiere-lens-bethune/">Contrat d'entretien</a> disponible dès l'installation</li>
+</ul>
+
+<h2>Demandez votre devis gratuit</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>pose-remplacement-chaudiere-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Installation climatisation réversible -->
+  <item>
+    <title>Installation de Climatisation Réversible à Lens et Béthune</title>
+    <link>https://art-et-confort.com/installation-climatisation-reversible-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Installation de Climatisation Réversible à Lens et Béthune</h1>
+
+<p>Vous cherchez une solution pour <strong>rafraîchir votre maison en été et la chauffer en hiver</strong> ? La climatisation réversible (PAC air-air) est le système 2-en-1 le plus efficace. <strong>Art et Confort</strong> installe votre clim réversible à Lens, Béthune et dans tout le Bassin Minier.</p>
+
+<h2>Qu'est-ce qu'une climatisation réversible ?</h2>
+<p>Une climatisation réversible est une <strong>pompe à chaleur air-air</strong> qui fonctionne dans les deux sens :</p>
+<ul>
+<li><strong>En été</strong> : elle rafraîchit votre intérieur en évacuant la chaleur vers l'extérieur</li>
+<li><strong>En hiver</strong> : elle capte les calories de l'air extérieur pour chauffer votre logement</li>
+</ul>
+<p>C'est un équipement <strong>économique</strong> (COP de 3 à 4, soit 1 kWh consommé pour 3 à 4 kWh produits) et <strong>écologique</strong>.</p>
+
+<h2>Nos solutions de climatisation</h2>
+
+<h3>Mono-split</h3>
+<p>Un groupe extérieur + une unité intérieure. Idéal pour climatiser <strong>une seule pièce</strong> (salon, chambre, bureau). Installation rapide et budget maîtrisé.</p>
+
+<h3>Multi-split</h3>
+<p>Un groupe extérieur + plusieurs unités intérieures. Permet de climatiser <strong>jusqu'à 5 pièces</strong> indépendamment. Chaque pièce dispose de sa propre température de consigne.</p>
+
+<h3>Gainable</h3>
+<p>Système <strong>invisible</strong> intégré dans les faux plafonds. L'air est distribué par des gaines et des bouches de soufflage. Esthétique et silencieux, idéal en construction neuve ou rénovation complète.</p>
+
+<h2>Les avantages de la clim réversible</h2>
+<ul>
+<li><strong>Confort toute l'année</strong> : chaud en hiver, frais en été</li>
+<li><strong>Économies d'énergie</strong> : jusqu'à 60% d'économies vs chauffage électrique</li>
+<li><strong>Installation rapide</strong> : en 1 à 2 jours selon la configuration</li>
+<li><strong>Filtration de l'air</strong> : purification et déshumidification intégrées</li>
+<li><strong>Pilotage à distance</strong> : gestion par smartphone (wifi)</li>
+</ul>
+
+<h2>Notre processus d'installation</h2>
+<ol>
+<li><strong>Étude gratuite à domicile</strong> : bilan thermique et choix de l'emplacement</li>
+<li><strong>Devis transparent</strong> : fourniture, pose et mise en service incluses</li>
+<li><strong>Installation propre</strong> : passage des liaisons frigorifiques, pose des unités, raccordements électriques</li>
+<li><strong>Mise en service</strong> : test, réglages et prise en main de la télécommande</li>
+</ol>
+
+<h2>Marques installées</h2>
+<p>Nous travaillons avec les <strong>marques leaders</strong> : Daikin, Mitsubishi Electric, Atlantic, Toshiba, Panasonic. Nous vous conseillons le meilleur rapport qualité/prix selon vos besoins.</p>
+
+<h2>Entretien de votre climatisation</h2>
+<p>Pour maintenir les performances et la qualité de l'air, un <a href="/entretien-climatisation-lens-bethune/">entretien annuel de votre climatisation</a> est recommandé (et obligatoire pour les systèmes de plus de 2 kg de fluide frigorigène).</p>
+
+<h2>Demandez votre devis gratuit</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>installation-climatisation-reversible-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Installation poêles et inserts -->
+  <item>
+    <title>Installation de Poêles et Inserts à Lens et Béthune</title>
+    <link>https://art-et-confort.com/installation-poeles-inserts-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Installation de Poêles et Inserts à Lens et Béthune</h1>
+
+<p>Le chauffage au bois reste l'une des <strong>énergies les plus économiques</strong> en France. <strong>Art et Confort</strong> installe votre poêle à bois, poêle à granulés ou insert de cheminée à Lens, Béthune et dans le Bassin Minier. Artisan <strong>certifié RGE QualiBois</strong>, nous garantissons une installation conforme et sécurisée.</p>
+
+<h2>Nos solutions de chauffage au bois</h2>
+
+<h3>Poêle à granulés (pellets)</h3>
+<p>Le poêle à granulés est la solution la plus <strong>pratique et autonome</strong>. Alimentation automatique, programmation horaire, thermostat intégré. Il chauffe efficacement de 30 à 120 m² selon le modèle.</p>
+<ul>
+<li>Rendement jusqu'à <strong>95%</strong></li>
+<li>Autonomie de <strong>12 à 72h</strong> selon le réservoir</li>
+<li>Pilotable par <strong>smartphone</strong> (wifi)</li>
+</ul>
+
+<h3>Poêle à bois (bûches)</h3>
+<p>Le poêle à bûches offre le <strong>charme d'un feu de bois</strong> avec un rendement moderne de 75 à 85%. Idéal comme chauffage d'appoint ou principal dans une maison bien isolée.</p>
+
+<h3>Insert et foyer fermé</h3>
+<p>Transformez votre <strong>cheminée ouverte en système de chauffage performant</strong>. L'insert se glisse dans votre cheminée existante et multiplie le rendement par 5 (de 10% à plus de 70%).</p>
+
+<h2>L'installation complète par Art et Confort</h2>
+<ol>
+<li><strong>Visite technique</strong> : évaluation du conduit existant, choix de l'emplacement</li>
+<li><strong>Tubage du conduit</strong> : mise en conformité du conduit de cheminée (tubage inox)</li>
+<li><strong>Pose de l'appareil</strong> : raccordement au conduit, habillage et finitions</li>
+<li><strong>Mise en service</strong> : premier allumage, réglages et conseils d'utilisation</li>
+<li><strong>Certificat de conformité</strong> pour votre assurance</li>
+</ol>
+
+<h2>Aides financières</h2>
+<p>Grâce à notre <a href="/installateur-rge-lens-bethune/">certification RGE QualiBois</a>, vous bénéficiez de :</p>
+<ul>
+<li><strong>MaPrimeRénov'</strong> : jusqu'à 2 500 € pour un poêle à granulés</li>
+<li><strong>CEE</strong> : prime complémentaire selon vos revenus</li>
+<li><strong>TVA à 5,5%</strong></li>
+<li><strong>Éco-PTZ</strong></li>
+</ul>
+
+<h2>Entretien obligatoire</h2>
+<p>Un <a href="/ramonage-entretien-poeles-inserts-lens-bethune/">ramonage annuel (2 fois par an dont 1 en période de chauffe)</a> est obligatoire. Nous délivrons le certificat de ramonage exigé par votre assurance.</p>
+
+<h2>Demandez votre devis gratuit</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>installation-poeles-inserts-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Panneaux solaires -->
+  <item>
+    <title>Pose de Panneaux Solaires Photovoltaïques à Lens et Béthune</title>
+    <link>https://art-et-confort.com/panneaux-solaires-photovoltaiques-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Pose de Panneaux Solaires Photovoltaïques à Lens et Béthune</h1>
+
+<p>Produisez votre propre électricité et réduisez vos factures grâce aux <strong>panneaux solaires photovoltaïques</strong>. <strong>Art et Confort</strong> installe votre centrale solaire en toiture à Lens, Béthune et dans le Pas-de-Calais (62). Artisan <strong>certifié RGE</strong>, nous vous accompagnons de l'étude à la mise en service.</p>
+
+<h2>Pourquoi passer au solaire dans le 62 ?</h2>
+<p>Contrairement aux idées reçues, le <strong>Nord-Pas-de-Calais bénéficie d'un ensoleillement suffisant</strong> pour rentabiliser une installation solaire. Avec les tarifs d'électricité en hausse constante, l'autoconsommation devient un investissement rentable en 8 à 12 ans.</p>
+<ul>
+<li><strong>Réduction de 30 à 70%</strong> de votre facture d'électricité</li>
+<li><strong>Revente du surplus</strong> à EDF OA (obligation d'achat)</li>
+<li><strong>Durée de vie de 25 à 30 ans</strong> avec peu d'entretien</li>
+<li><strong>Valorisation de votre bien</strong> immobilier</li>
+</ul>
+
+<h2>Nos prestations solaires</h2>
+
+<h3>Autoconsommation avec revente de surplus</h3>
+<p>La solution la plus courante : vous consommez l'électricité produite en journée et revendez le surplus à EDF. Installation de <strong>3 à 9 kWc</strong> selon votre consommation.</p>
+
+<h3>Autoconsommation totale</h3>
+<p>Avec batterie de stockage, vous maximisez votre indépendance énergétique. Idéal couplé à une <a href="/installation-pompe-a-chaleur-lens-bethune/">pompe à chaleur</a> pour un chauffage quasi gratuit.</p>
+
+<h2>Aides et rentabilité</h2>
+<ul>
+<li><strong>Prime à l'autoconsommation</strong> : jusqu'à 1 290 € pour 3 kWc</li>
+<li><strong>TVA à 10%</strong> pour les installations ≤ 3 kWc</li>
+<li><strong>Revente du surplus</strong> : tarif garanti 20 ans par EDF OA</li>
+<li><strong>Retour sur investissement</strong> : 8 à 12 ans en moyenne</li>
+</ul>
+
+<h2>Demandez votre étude solaire gratuite</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>panneaux-solaires-photovoltaiques-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Installateur RGE -->
+  <item>
+    <title>Installateur RGE à Lens et Béthune - Art et Confort</title>
+    <link>https://art-et-confort.com/installateur-rge-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Installateur RGE à Lens et Béthune</h1>
+
+<p><strong>Art et Confort est certifié RGE</strong> (Reconnu Garant de l'Environnement). Cette certification, délivrée par des organismes accrédités, atteste de notre compétence pour réaliser des travaux de <strong>rénovation énergétique</strong>. C'est aussi la condition indispensable pour que vous puissiez bénéficier des <strong>aides de l'État</strong>.</p>
+
+<h2>Qu'est-ce que la certification RGE ?</h2>
+<p>Le label RGE est un <strong>signe de qualité reconnu par l'État</strong>. Il garantit que l'artisan :</p>
+<ul>
+<li>A suivi une <strong>formation spécifique</strong> et validé un examen</li>
+<li>Dispose d'une <strong>assurance décennale</strong> à jour</li>
+<li>Est <strong>audité régulièrement</strong> sur ses chantiers</li>
+<li>Respecte les <strong>normes et DTU</strong> en vigueur</li>
+</ul>
+
+<h2>Nos certifications</h2>
+
+<h3>QualiPAC</h3>
+<p>Certification pour l'installation de <a href="/installation-pompe-a-chaleur-lens-bethune/">pompes à chaleur</a> et <a href="/installation-climatisation-reversible-lens-bethune/">climatisations réversibles</a>.</p>
+
+<h3>QualiBois</h3>
+<p>Certification pour l'installation d'appareils de chauffage au bois : <a href="/installation-poeles-inserts-lens-bethune/">poêles, inserts et chaudières à granulés</a>.</p>
+
+<h3>Professionnel du Gaz (PG)</h3>
+<p>Habilitation pour l'installation et la maintenance de tous les équipements gaz : <a href="/pose-remplacement-chaudiere-lens-bethune/">chaudières</a>, chauffe-eau, cuisinières.</p>
+
+<h3>Chauffage+</h3>
+<p>Label de qualité pour la pose et l'entretien des systèmes de chauffage central.</p>
+
+<h2>Pourquoi choisir un artisan RGE ?</h2>
+<ul>
+<li><strong>Accès aux aides</strong> : MaPrimeRénov', CEE, éco-PTZ, TVA 5,5%</li>
+<li><strong>Garantie de compétence</strong> : formation continue et audits</li>
+<li><strong>Assurance décennale</strong> : vous êtes couvert pendant 10 ans</li>
+<li><strong>Conseils adaptés</strong> : un professionnel formé aux dernières technologies</li>
+</ul>
+
+<h2>Vérifiez notre certification</h2>
+<p>Vous pouvez vérifier notre certification RGE sur le site officiel <strong>france-renov.gouv.fr</strong>. Recherchez "Art et Confort" ou "Watrelot" à Auchy-les-Mines (62).</p>
+
+<h2>Contactez un artisan RGE</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>installateur-rge-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- SILO 2 : ENTRETIEN                           -->
+  <!-- ============================================ -->
+
+  <!-- PAGE : Contrat entretien chaudière -->
+  <item>
+    <title>Contrat d'Entretien Chaudière à Lens et Béthune</title>
+    <link>https://art-et-confort.com/contrat-entretien-chaudiere-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Contrat d'Entretien Chaudière à Lens et Béthune</h1>
+
+<p>L'entretien annuel de votre chaudière est <strong>obligatoire</strong> (décret n°2009-649). <strong>Art et Confort</strong> propose des contrats d'entretien pour chaudières gaz, fioul et granulés à Lens, Béthune et dans le Bassin Minier. Un entretien régulier, c'est la garantie d'un appareil <strong>sûr, performant et économe</strong>.</p>
+
+<h2>Pourquoi entretenir sa chaudière ?</h2>
+<ul>
+<li><strong>Obligation légale</strong> : entretien annuel obligatoire par un professionnel qualifié</li>
+<li><strong>Sécurité</strong> : détection des risques de fuite de monoxyde de carbone (CO)</li>
+<li><strong>Économies</strong> : une chaudière entretenue consomme jusqu'à <strong>12% de moins</strong></li>
+<li><strong>Longévité</strong> : durée de vie prolongée de votre équipement</li>
+<li><strong>Assurance</strong> : l'attestation d'entretien est exigée en cas de sinistre</li>
+</ul>
+
+<h2>Ce que comprend notre entretien</h2>
+<ol>
+<li><strong>Nettoyage du corps de chauffe</strong> : brûleur, échangeur, veilleuse</li>
+<li><strong>Vérification des organes de sécurité</strong> : thermocouple, pressostat, soupape</li>
+<li><strong>Contrôle de combustion</strong> : analyse des fumées et mesure du CO</li>
+<li><strong>Vérification de l'étanchéité</strong> des circuits gaz et eau</li>
+<li><strong>Contrôle du circulateur</strong> et du vase d'expansion</li>
+<li><strong>Réglage de la pression</strong> et purge si nécessaire</li>
+<li><strong>Remise de l'attestation d'entretien</strong> officielle</li>
+</ol>
+
+<h2>Nos formules de contrat</h2>
+
+<h3>Contrat Essentiel</h3>
+<p>Visite d'entretien annuel + attestation. Idéal pour les chaudières récentes en bon état.</p>
+
+<h3>Contrat Sérénité</h3>
+<p>Entretien annuel + <strong>dépannage prioritaire</strong> inclus (main-d'œuvre et déplacement). Pièces détachantes facturées au réel. Tranquillité toute l'année.</p>
+
+<h2>Chaudières entretenues</h2>
+<p>Nous entretenons <strong>toutes les marques</strong> : Frisquet, Atlantic, De Dietrich, Saunier Duval, Viessmann, Elm Leblanc, Chappée, ÖkoFEN (granulés).</p>
+
+<p>Votre chaudière est en panne ? Consultez notre page <a href="/reparation-chaudiere-en-panne-lens-bethune/">réparation chaudière en panne</a>.</p>
+
+<h2>Prenez rendez-vous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>contrat-entretien-chaudiere-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>7</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Entretien PAC -->
+  <item>
+    <title>Entretien de Pompe à Chaleur (PAC) à Lens et Béthune</title>
+    <link>https://art-et-confort.com/entretien-pompe-a-chaleur-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Entretien de Pompe à Chaleur (PAC) à Lens et Béthune</h1>
+
+<p>Depuis 2020, l'entretien des pompes à chaleur est <strong>obligatoire tous les 2 ans</strong> (décret n°2020-912). <strong>Art et Confort</strong>, certifié RGE QualiPAC, assure la maintenance de votre PAC air-eau ou air-air à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>En quoi consiste l'entretien d'une PAC ?</h2>
+<ul>
+<li><strong>Contrôle d'étanchéité</strong> du circuit frigorifique</li>
+<li><strong>Nettoyage de l'unité extérieure</strong> : échangeur, ventilateur, évacuation des condensats</li>
+<li><strong>Vérification des performances</strong> : COP, températures, pressions</li>
+<li><strong>Contrôle électrique</strong> : connexions, intensités, protections</li>
+<li><strong>Nettoyage des filtres</strong> des unités intérieures (PAC air-air)</li>
+<li><strong>Vérification du circulateur et du vase d'expansion</strong> (PAC air-eau)</li>
+<li><strong>Mise à jour</strong> de la régulation si nécessaire</li>
+</ul>
+
+<h2>Pourquoi entretenir sa PAC ?</h2>
+<ul>
+<li><strong>Performances optimales</strong> : une PAC mal entretenue peut perdre 20% de rendement</li>
+<li><strong>Durée de vie</strong> : 15 à 20 ans avec un bon entretien, 10 ans sans</li>
+<li><strong>Garantie constructeur</strong> : souvent conditionnée à un entretien régulier</li>
+<li><strong>Conformité légale</strong> : obligation tous les 2 ans</li>
+</ul>
+
+<p>Un problème avec votre PAC ? Consultez notre page <a href="/depannage-pompe-a-chaleur-lens-bethune/">dépannage pompe à chaleur</a>.</p>
+<p>Vous souhaitez installer une PAC ? <a href="/installation-pompe-a-chaleur-lens-bethune/">Installation de pompe à chaleur</a>.</p>
+
+<h2>Prenez rendez-vous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>entretien-pompe-a-chaleur-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>8</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Entretien climatisation -->
+  <item>
+    <title>Entretien Climatisation à Lens et Béthune</title>
+    <link>https://art-et-confort.com/entretien-climatisation-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Entretien Climatisation à Lens et Béthune</h1>
+
+<p>Un entretien régulier de votre climatisation garantit un <strong>air sain, des performances optimales et une consommation maîtrisée</strong>. <strong>Art et Confort</strong> assure l'entretien de votre clim réversible ou non à Lens, Béthune et environs.</p>
+
+<h2>Ce que comprend l'entretien</h2>
+<ul>
+<li><strong>Nettoyage des filtres</strong> : élimination des poussières, pollens et bactéries</li>
+<li><strong>Désinfection des unités intérieures</strong> : traitement antibactérien et antifongique</li>
+<li><strong>Contrôle du fluide frigorigène</strong> : niveau, pression et étanchéité du circuit</li>
+<li><strong>Nettoyage de l'unité extérieure</strong> : échangeur, ventilateur et évacuation</li>
+<li><strong>Vérification électrique</strong> : connexions, sécurités et télécommande</li>
+<li><strong>Test de fonctionnement</strong> en mode chaud et froid</li>
+</ul>
+
+<h2>À quelle fréquence ?</h2>
+<ul>
+<li><strong>Nettoyage des filtres</strong> : tous les 2 à 3 mois (vous pouvez le faire vous-même)</li>
+<li><strong>Entretien professionnel</strong> : 1 fois par an minimum</li>
+<li><strong>Contrôle d'étanchéité</strong> : obligatoire tous les 2 ans pour les systèmes contenant plus de 2 kg de fluide frigorigène</li>
+</ul>
+
+<p>Besoin d'une réparation ? <a href="/reparation-climatisation-lens-bethune/">Dépannage climatisation</a>.<br>
+Envie d'installer une clim ? <a href="/installation-climatisation-reversible-lens-bethune/">Installation climatisation réversible</a>.</p>
+
+<h2>Prenez rendez-vous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>entretien-climatisation-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>9</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Ramonage poêles et inserts -->
+  <item>
+    <title>Ramonage et Entretien Poêles et Inserts à Lens et Béthune</title>
+    <link>https://art-et-confort.com/ramonage-entretien-poeles-inserts-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Ramonage et Entretien Poêles et Inserts à Lens et Béthune</h1>
+
+<p>Le ramonage de votre poêle ou insert est une <strong>obligation légale</strong> (2 fois par an dont 1 en période de chauffe). <strong>Art et Confort</strong> assure le ramonage et l'entretien complet de vos appareils de chauffage au bois et granulés à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Le ramonage : une obligation légale</h2>
+<p>Le règlement sanitaire départemental impose <strong>2 ramonages par an</strong> pour les conduits de fumée utilisés avec des combustibles solides (bois, granulés). Le non-respect de cette obligation peut entraîner :</p>
+<ul>
+<li>Un <strong>refus d'indemnisation</strong> par votre assurance en cas de sinistre</li>
+<li>Une <strong>amende</strong> pouvant aller jusqu'à 450 €</li>
+<li>Un <strong>risque d'incendie</strong> de conduit ou d'intoxication au CO</li>
+</ul>
+
+<h2>Notre prestation d'entretien</h2>
+<ol>
+<li><strong>Ramonage mécanique</strong> du conduit (hérisson)</li>
+<li><strong>Nettoyage du foyer</strong> : chambre de combustion, déflecteur, vitre</li>
+<li><strong>Vérification des joints</strong> d'étanchéité</li>
+<li><strong>Contrôle du tirage</strong> et de l'arrivée d'air</li>
+<li><strong>Pour les poêles à granulés</strong> : nettoyage du creuset, vérification de la vis sans fin, bougie d'allumage et ventilateur d'extraction</li>
+<li><strong>Remise du certificat de ramonage</strong> (à conserver pour votre assurance)</li>
+</ol>
+
+<p>Votre poêle à granulés est en panne ? <a href="/depannage-poele-a-granules-lens-bethune/">Dépannage poêle à granulés</a>.<br>
+Vous souhaitez installer un poêle ? <a href="/installation-poeles-inserts-lens-bethune/">Installation de poêles et inserts</a>.</p>
+
+<h2>Prenez rendez-vous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>ramonage-entretien-poeles-inserts-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>10</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Entretien chauffe-eau et VMC -->
+  <item>
+    <title>Entretien Chauffe-eau et VMC à Lens et Béthune</title>
+    <link>https://art-et-confort.com/entretien-chauffe-eau-vmc-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Entretien Chauffe-eau et VMC à Lens et Béthune</h1>
+
+<p>Un chauffe-eau entartré consomme plus et finit par tomber en panne. Une VMC encrassée ne ventile plus correctement et dégrade la qualité de l'air. <strong>Art et Confort</strong> assure l'entretien de vos chauffe-eau et VMC à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Entretien du chauffe-eau</h2>
+
+<h3>Chauffe-eau électrique (cumulus)</h3>
+<ul>
+<li><strong>Détartrage de la cuve</strong> : élimine le calcaire qui réduit les performances</li>
+<li><strong>Vérification de l'anode</strong> : pièce anti-corrosion à remplacer si usée</li>
+<li><strong>Contrôle du groupe de sécurité</strong> : soupape, vidange</li>
+<li><strong>Test du thermostat</strong> et de la résistance</li>
+</ul>
+
+<h3>Chauffe-eau gaz / thermodynamique</h3>
+<ul>
+<li><strong>Nettoyage du brûleur</strong> et de l'échangeur (gaz)</li>
+<li><strong>Contrôle du compresseur</strong> et de l'évaporateur (thermodynamique)</li>
+<li><strong>Vérification des sécurités</strong></li>
+</ul>
+
+<h2>Entretien de la VMC</h2>
+<ul>
+<li><strong>Nettoyage des bouches d'extraction</strong> (cuisine, salle de bain, WC)</li>
+<li><strong>Nettoyage des entrées d'air</strong> sur les fenêtres</li>
+<li><strong>Vérification du moteur</strong> et des débits d'extraction</li>
+<li><strong>Remplacement des filtres</strong> (VMC double flux)</li>
+</ul>
+
+<p>Votre chauffe-eau est en panne ? <a href="/remplacement-chauffe-eau-lens-bethune/">Remplacement de chauffe-eau</a>.</p>
+
+<h2>Prenez rendez-vous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>entretien-chauffe-eau-vmc-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>11</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- SILO 3 : DEPANNAGE                           -->
+  <!-- ============================================ -->
+
+  <!-- PAGE : Dépannage chauffage urgence -->
+  <item>
+    <title>Dépannage Chauffage en Urgence à Lens et Béthune</title>
+    <link>https://art-et-confort.com/depannage-chauffage-urgence-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Dépannage Chauffage en Urgence à Lens et Béthune</h1>
+
+<p>Votre chauffage est en panne en plein hiver ? <strong>Art et Confort intervient en urgence sous 24h</strong> à Lens, Béthune et dans tout le Bassin Minier. François Watrelot, chauffagiste expérimenté depuis plus de 15 ans, diagnostique et répare votre installation rapidement.</p>
+
+<h2>Nos interventions d'urgence</h2>
+<ul>
+<li><strong>Chaudière en panne</strong> : code erreur, arrêt brutal, plus d'eau chaude — <a href="/reparation-chaudiere-en-panne-lens-bethune/">en savoir plus</a></li>
+<li><strong>Pompe à chaleur en défaut</strong> : code erreur, bruit anormal, plus de chauffage — <a href="/depannage-pompe-a-chaleur-lens-bethune/">en savoir plus</a></li>
+<li><strong>Radiateurs froids</strong> : problème de circulation, embouage, purge</li>
+<li><strong>Plancher chauffant défaillant</strong> : zone froide, fuite dans le circuit</li>
+<li><strong>Poêle à granulés en panne</strong> : problème d'allumage, bourrage — <a href="/depannage-poele-a-granules-lens-bethune/">en savoir plus</a></li>
+<li><strong>Fuite sur circuit de chauffage</strong> : perte de pression, trace d'humidité</li>
+</ul>
+
+<h2>Notre engagement</h2>
+<ul>
+<li><strong>Réponse rapide</strong> : prise en charge de votre appel dans l'heure</li>
+<li><strong>Intervention sous 24h</strong> dans le secteur Lens-Béthune</li>
+<li><strong>Diagnostic transparent</strong> : on vous explique la panne avant de réparer</li>
+<li><strong>Tarifs honnêtes</strong> : devis avant intervention si réparation importante</li>
+<li><strong>Multimarques</strong> : Frisquet, Atlantic, De Dietrich, Saunier Duval, Viessmann, Daikin, Mitsubishi...</li>
+</ul>
+
+<h2>En attendant le chauffagiste</h2>
+<p>Quelques vérifications à faire vous-même avant d'appeler :</p>
+<ol>
+<li>Vérifiez que votre chaudière est <strong>alimentée en électricité</strong> (disjoncteur)</li>
+<li>Vérifiez la <strong>pression du circuit</strong> (entre 1 et 1,5 bar)</li>
+<li>Tentez un <strong>réarmement</strong> (bouton reset) si votre chaudière affiche un code erreur</li>
+<li>Vérifiez que le <strong>thermostat</strong> est bien réglé et en mode chauffage</li>
+</ol>
+
+<h2>Appelez maintenant</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>depannage-chauffage-urgence-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>12</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Réparation chaudière en panne -->
+  <item>
+    <title>Réparation Chaudière en Panne à Lens et Béthune</title>
+    <link>https://art-et-confort.com/reparation-chaudiere-en-panne-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Réparation Chaudière en Panne à Lens et Béthune</h1>
+
+<p>Votre chaudière affiche un code erreur, ne démarre plus ou ne produit plus d'eau chaude ? <strong>Art et Confort</strong> assure le <strong>diagnostic et la réparation multimarques</strong> de votre chaudière à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Pannes les plus fréquentes</h2>
+
+<h3>Chaudière qui ne démarre pas</h3>
+<p>Causes possibles : problème d'allumage, électrode d'ionisation usée, carte électronique en défaut, pression d'eau trop basse ou vanne gaz fermée.</p>
+
+<h3>Plus d'eau chaude</h3>
+<p>Causes possibles : vanne 3 voies bloquée, sonde de température défectueuse, échangeur sanitaire entartré.</p>
+
+<h3>Chaudière qui fuit</h3>
+<p>Causes possibles : soupape de sécurité qui coule (surpression), joint de pompe ou vase d'expansion percé, corps de chauffe fissuré.</p>
+
+<h3>Bruit anormal</h3>
+<p>Causes possibles : embouage du circuit (bruit de bouilloire), circulateur défectueux, air dans les radiateurs.</p>
+
+<h2>Notre diagnostic</h2>
+<p>Nous intervenons sur <strong>toutes les marques</strong> : Frisquet, Atlantic, De Dietrich, Saunier Duval, Viessmann, Elm Leblanc, Chappée, Chaffoteaux. Diagnostic précis avec explication claire de la panne et du coût de réparation <strong>avant intervention</strong>.</p>
+
+<p>Si votre chaudière est irréparable ou trop ancienne, nous vous proposons un <a href="/pose-remplacement-chaudiere-lens-bethune/">remplacement de chaudière</a> adapté à votre budget.<br>
+Pour éviter les pannes : <a href="/contrat-entretien-chaudiere-lens-bethune/">contrat d'entretien chaudière</a>.</p>
+
+<h2>Appelez maintenant</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>reparation-chaudiere-en-panne-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>13</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Dépannage PAC -->
+  <item>
+    <title>Dépannage Pompe à Chaleur (PAC) à Lens et Béthune</title>
+    <link>https://art-et-confort.com/depannage-pompe-a-chaleur-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Dépannage Pompe à Chaleur (PAC) à Lens et Béthune</h1>
+
+<p>Votre pompe à chaleur affiche un code erreur, fait du bruit ou ne chauffe plus ? <strong>Art et Confort</strong>, certifié QualiPAC, intervient rapidement pour diagnostiquer et réparer votre PAC à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Pannes courantes de PAC</h2>
+
+<h3>Code erreur / défaut</h3>
+<p>Chaque marque a ses codes erreurs. Nous intervenons sur <strong>Daikin, Mitsubishi, Atlantic, Hitachi, Panasonic, Toshiba</strong> et résolvons les défauts les plus courants : haute pression, basse pression, défaut de débit, sonde en défaut.</p>
+
+<h3>PAC qui ne chauffe plus</h3>
+<p>Causes possibles : manque de fluide frigorigène (fuite), compresseur en défaut, carte électronique HS, vanne 4 voies bloquée.</p>
+
+<h3>PAC qui fait du bruit</h3>
+<p>Causes possibles : ventilateur extérieur déséquilibré, silent bloc usés, compresseur en fin de vie, givrage anormal.</p>
+
+<h3>Surconsommation électrique</h3>
+<p>Causes possibles : encrassement de l'échangeur, manque de fluide, résistance d'appoint qui prend le relais en permanence.</p>
+
+<h2>Notre intervention</h2>
+<ol>
+<li><strong>Diagnostic complet</strong> avec relevé des paramètres (pressions, températures, intensités)</li>
+<li><strong>Explication de la panne</strong> et devis si réparation importante</li>
+<li><strong>Réparation</strong> : remplacement de pièces, recharge de fluide, reprogrammation</li>
+<li><strong>Test de bon fonctionnement</strong></li>
+</ol>
+
+<p>Pour éviter les pannes : <a href="/entretien-pompe-a-chaleur-lens-bethune/">entretien régulier de votre PAC</a>.<br>
+Besoin d'un remplacement ? <a href="/installation-pompe-a-chaleur-lens-bethune/">Installation de pompe à chaleur</a>.</p>
+
+<h2>Appelez maintenant</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>depannage-pompe-a-chaleur-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>14</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Réparation climatisation -->
+  <item>
+    <title>Réparation Climatisation à Lens et Béthune</title>
+    <link>https://art-et-confort.com/reparation-climatisation-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Réparation Climatisation à Lens et Béthune</h1>
+
+<p>Votre climatisation coule, fait du bruit, ne refroidit plus ou dégage de mauvaises odeurs ? <strong>Art et Confort</strong> dépanne votre climatisation réversible ou non à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Problèmes courants</h2>
+
+<h3>La clim ne refroidit plus (ou ne chauffe plus)</h3>
+<p>Cause la plus fréquente : <strong>manque de fluide frigorigène</strong> suite à une micro-fuite. Nous détectons la fuite, la colmatons et rechargeons le circuit.</p>
+
+<h3>La clim coule à l'intérieur</h3>
+<p>Cause : <strong>bac à condensats bouché</strong> ou pompe de relevage en panne. Nettoyage ou remplacement de la pompe.</p>
+
+<h3>Mauvaises odeurs</h3>
+<p>Cause : <strong>moisissures dans l'unité intérieure</strong>. Nettoyage en profondeur et traitement antibactérien.</p>
+
+<h3>Bruit excessif</h3>
+<p>Causes possibles : fixations desserrées, ventilateur encrassé, compresseur fatigué.</p>
+
+<h2>Marques dépannées</h2>
+<p>Daikin, Mitsubishi Electric, Atlantic, Toshiba, Panasonic, Hitachi, Samsung, LG.</p>
+
+<p>Pensez à l'<a href="/entretien-climatisation-lens-bethune/">entretien annuel</a> pour éviter ces pannes.<br>
+Besoin d'une nouvelle installation ? <a href="/installation-climatisation-reversible-lens-bethune/">Installation climatisation réversible</a>.</p>
+
+<h2>Appelez maintenant</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>reparation-climatisation-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>15</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Dépannage poêle à granulés -->
+  <item>
+    <title>Dépannage Poêle à Granulés à Lens et Béthune</title>
+    <link>https://art-et-confort.com/depannage-poele-a-granules-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Dépannage Poêle à Granulés à Lens et Béthune</h1>
+
+<p>Votre poêle à granulés ne s'allume plus, s'éteint tout seul ou affiche une alarme ? <strong>Art et Confort</strong> dépanne votre poêle à pellets à Lens, Béthune et dans le Bassin Minier. Intervention rapide, diagnostic clair.</p>
+
+<h2>Pannes fréquentes</h2>
+
+<h3>Le poêle ne s'allume pas</h3>
+<p>Cause la plus courante : <strong>bougie d'allumage HS</strong>. Pièce d'usure à remplacer tous les 2 à 4 ans selon l'utilisation. Peut aussi être un problème de carte électronique ou de capteur de dépression.</p>
+
+<h3>Le poêle s'éteint en cours de fonctionnement</h3>
+<p>Causes possibles : encrassement du creuset, <strong>vis sans fin bloquée</strong>, granulés de mauvaise qualité, problème de tirage (conduit obstrué).</p>
+
+<h3>Bourrage de granulés</h3>
+<p>Cause : granulés humides, poussière excessive ou corps étranger dans le réservoir. Nettoyage de la vis sans fin et du creuset.</p>
+
+<h3>Bruit anormal</h3>
+<p>Causes possibles : ventilateur d'extraction encrassé, roulement usé, vis sans fin grippée.</p>
+
+<h2>Marques dépannées</h2>
+<p>MCZ, Ravelli, Palazzetti, Edilkamin, Invicta, Supra, Jolly Mec, Piazzetta, Extraflame et toutes les autres marques du marché.</p>
+
+<p>Pensez au <a href="/ramonage-entretien-poeles-inserts-lens-bethune/">ramonage et entretien régulier</a> pour prévenir ces pannes.<br>
+Besoin d'un nouveau poêle ? <a href="/installation-poeles-inserts-lens-bethune/">Installation de poêles et inserts</a>.</p>
+
+<h2>Appelez maintenant</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>depannage-poele-a-granules-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>16</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- SILO 4 : PLOMBERIE SANITAIRE                 -->
+  <!-- ============================================ -->
+
+  <!-- PAGE : Plombier Lens et Béthune -->
+  <item>
+    <title>Plombier à Lens et Béthune - Art et Confort</title>
+    <link>https://art-et-confort.com/plombier-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Plombier à Lens et Béthune</h1>
+
+<p>Fuite d'eau, robinet qui goutte, WC bouché, canalisation percée ? <strong>Art et Confort</strong> est votre <strong>plombier de confiance à Lens, Béthune et dans le Bassin Minier</strong>. François Watrelot intervient rapidement chez les particuliers pour tous vos dépannages et travaux de plomberie.</p>
+
+<h2>Nos prestations de plomberie</h2>
+
+<h3>Dépannage et urgences</h3>
+<ul>
+<li><strong>Recherche et réparation de fuites</strong> : fuite apparente ou encastrée</li>
+<li><strong>Débouchage</strong> : WC, évier, lavabo, baignoire, douche</li>
+<li><strong>Réparation de canalisations</strong> : cuivre, PER, multicouche</li>
+<li><strong>Remplacement de robinetterie</strong> : mitigeur, mélangeur, robinet d'arrêt</li>
+</ul>
+
+<h3>Installation et rénovation</h3>
+<ul>
+<li><strong><a href="/renovation-salle-de-bain-lens-bethune/">Rénovation de salle de bain</a></strong> : projets clé en main</li>
+<li><strong>Installation de sanitaires</strong> : WC, lavabo, douche, baignoire</li>
+<li><strong><a href="/remplacement-chauffe-eau-lens-bethune/">Remplacement de chauffe-eau</a></strong></li>
+<li><strong><a href="/reseaux-eau-sanitaires-lens-bethune/">Création de réseaux d'eau</a></strong> : alimentation et évacuation</li>
+</ul>
+
+<h3>Équipements complémentaires</h3>
+<ul>
+<li><strong>Adoucisseur d'eau</strong> : protection contre le calcaire</li>
+<li><strong>Surpresseur</strong> : amélioration de la pression d'eau</li>
+<li><strong>Réducteur de pression</strong> : protection de vos équipements</li>
+</ul>
+
+<h2>Pourquoi choisir Art et Confort ?</h2>
+<ul>
+<li><strong>+ de 15 ans d'expérience</strong> en plomberie</li>
+<li><strong>Intervention rapide</strong> dans la journée pour les urgences</li>
+<li><strong>Devis gratuit</strong> et transparent</li>
+<li><strong>Travail soigné</strong> : on nettoie le chantier avant de partir</li>
+<li><strong>Avis 5 étoiles</strong> sur Google</li>
+</ul>
+
+<h2>Zone d'intervention</h2>
+<p>Nous intervenons à <strong>Lens, Béthune, Liévin, Hénin-Beaumont, Arras, Avion, Bruay-la-Buissière, Nœux-les-Mines, Auchy-les-Mines</strong> et toutes les communes du Bassin Minier. <a href="/zone-intervention-lens-bethune-artois/">Voir la zone complète</a>.</p>
+
+<h2>Appelez votre plombier</h2>
+<p><strong><a href="tel:0688803229">06 88 80 32 29</a></strong><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>plombier-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>17</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Rénovation salle de bain -->
+  <item>
+    <title>Création et Rénovation de Salle de Bain à Lens et Béthune</title>
+    <link>https://art-et-confort.com/renovation-salle-de-bain-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Création et Rénovation de Salle de Bain à Lens et Béthune</h1>
+
+<p>Envie d'une <strong>salle de bain moderne, fonctionnelle et à votre image</strong> ? <strong>Art et Confort</strong> réalise votre projet de rénovation clé en main à Lens, Béthune et dans le Bassin Minier. De la conception à la finition, François Watrelot est votre <strong>unique interlocuteur</strong>.</p>
+
+<h2>Nos réalisations</h2>
+
+<h3>Douche à l'italienne</h3>
+<p>La douche à l'italienne est le choix n°1 en rénovation. Esthétique, pratique et accessible, elle s'adapte à toutes les configurations. Receveur extra-plat ou douche maçonnée avec étanchéité SPEC.</p>
+
+<h3>Remplacement baignoire par douche</h3>
+<p>Gagnez en espace et en praticité. Nous remplaçons votre baignoire par une douche moderne en <strong>2 à 3 jours</strong>. Idéal pour les seniors ou les petites salles de bain.</p>
+
+<h3>Salle de bain PMR (accessibilité)</h3>
+<p>Adaptation de votre salle de bain pour les personnes à mobilité réduite : douche de plain-pied, barres d'appui, siège de douche, WC surélevé. <strong>Éligible aux aides MaPrimeAdapt'</strong>.</p>
+
+<h3>Rénovation complète</h3>
+<p>Dépose de l'existant, plomberie, carrelage, faïence, électricité, peinture, pose des sanitaires et meubles. Un projet <strong>100% géré par un seul artisan</strong>.</p>
+
+<h2>Notre méthode</h2>
+<ol>
+<li><strong>Visite et prise de cotes</strong> gratuite</li>
+<li><strong>Proposition d'aménagement</strong> et devis détaillé</li>
+<li><strong>Choix des matériaux</strong> : nous vous accompagnons chez nos partenaires (CEDEO, Point P)</li>
+<li><strong>Travaux</strong> : dépose, plomberie, carrelage, pose des équipements</li>
+<li><strong>Réception</strong> : livraison clé en main, nettoyage complet</li>
+</ol>
+
+<h2>Témoignage client</h2>
+<blockquote>
+<p>"Rénovation INTÉGRALE de notre salle de bain. Un travail complet qui a démontré toute l'étendue du talent de M. Watrelot. Un professionnel à l'écoute, réellement soucieux de répondre à ce que l'on souhaite. Nous sommes enchantés du résultat !" — <strong>Christelle P.</strong></p>
+</blockquote>
+
+<h2>Demandez votre devis gratuit</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>renovation-salle-de-bain-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>18</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Remplacement chauffe-eau -->
+  <item>
+    <title>Remplacement de Chauffe-eau à Lens et Béthune</title>
+    <link>https://art-et-confort.com/remplacement-chauffe-eau-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Remplacement de Chauffe-eau à Lens et Béthune</h1>
+
+<p>Votre ballon d'eau chaude fuit, ne chauffe plus ou produit de l'eau rouillée ? <strong>Art et Confort</strong> remplace votre chauffe-eau dans la journée à Lens, Béthune et dans le Bassin Minier. Électrique, gaz ou thermodynamique, nous vous conseillons la solution la plus adaptée.</p>
+
+<h2>Quand remplacer son chauffe-eau ?</h2>
+<ul>
+<li>Il a <strong>plus de 10 ans</strong> (durée de vie moyenne d'un cumulus)</li>
+<li>Il <strong>fuit</strong> par la cuve (corrosion irréparable)</li>
+<li>L'eau est <strong>tiède ou insuffisante</strong> malgré un thermostat au maximum</li>
+<li>L'eau est <strong>rouillée ou malodorante</strong> (anode usée)</li>
+<li>Le <strong>groupe de sécurité coule</strong> en permanence</li>
+</ul>
+
+<h2>Nos solutions</h2>
+
+<h3>Chauffe-eau électrique (cumulus)</h3>
+<p>Solution la plus courante. De 75L (1 personne) à 300L (5+ personnes). Installation rapide, remplacement à l'identique ou adaptation. Marques : Atlantic, Thermor, Ariston.</p>
+
+<h3>Chauffe-eau thermodynamique</h3>
+<p>Utilise une mini pompe à chaleur pour chauffer l'eau. <strong>Jusqu'à 70% d'économies</strong> vs un cumulus classique. Éligible aux aides MaPrimeRénov' avec un <a href="/installateur-rge-lens-bethune/">artisan RGE</a>.</p>
+
+<h3>Chauffe-eau gaz</h3>
+<p>Instantané ou à accumulation. Idéal si vous êtes raccordé au gaz. Remplacement et mise en conformité.</p>
+
+<h2>Intervention rapide</h2>
+<p>Plus d'eau chaude ? Nous intervenons <strong>dans la journée</strong> pour les remplacements urgents. Dépose de l'ancien, pose du nouveau, raccordements et mise en service inclus.</p>
+
+<p>Pour prolonger la durée de vie de votre chauffe-eau : <a href="/entretien-chauffe-eau-vmc-lens-bethune/">entretien et détartrage</a>.</p>
+
+<h2>Demandez votre devis</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>remplacement-chauffe-eau-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>19</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Réseaux d'eau et sanitaires -->
+  <item>
+    <title>Réseaux d'Eau et Sanitaires à Lens et Béthune</title>
+    <link>https://art-et-confort.com/reseaux-eau-sanitaires-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Réseaux d'Eau et Sanitaires à Lens et Béthune</h1>
+
+<p>Installation de WC, remplacement de robinetterie, création ou modification de réseaux d'alimentation et d'évacuation : <strong>Art et Confort</strong> réalise tous vos travaux de plomberie sanitaire à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Nos prestations</h2>
+
+<h3>Installation de sanitaires</h3>
+<ul>
+<li><strong>WC</strong> : pose classique, WC suspendu (bâti-support), WC broyeur</li>
+<li><strong>Lavabos et vasques</strong> : pose sur meuble, colonne ou suspendu</li>
+<li><strong>Douche et baignoire</strong> : raccordement et étanchéité</li>
+<li><strong>Bidet et lave-mains</strong></li>
+</ul>
+
+<h3>Robinetterie</h3>
+<ul>
+<li><strong>Mitigeurs</strong> : cuisine, salle de bain, douche et baignoire</li>
+<li><strong>Robinets thermostatiques</strong> : confort et sécurité anti-brûlure</li>
+<li><strong>Robinets d'arrêt</strong> : remplacement et mise aux normes</li>
+</ul>
+
+<h3>Réseaux de tuyauterie</h3>
+<ul>
+<li><strong>Alimentation en eau</strong> : cuivre, PER, multicouche</li>
+<li><strong>Évacuation</strong> : PVC, raccordements et pentes conformes</li>
+<li><strong>Modification de réseau</strong> : déplacement de points d'eau, création de nouvelles arrivées</li>
+<li><strong>Remplacement de tuyauterie</strong> vétuste (plomb, acier galvanisé)</li>
+</ul>
+
+<h2>Pour quel projet ?</h2>
+<ul>
+<li><strong>Rénovation de cuisine</strong> : déplacement de l'évier, raccordement lave-vaisselle</li>
+<li><strong><a href="/renovation-salle-de-bain-lens-bethune/">Rénovation de salle de bain</a></strong> : création complète du réseau</li>
+<li><strong>Ajout d'un point d'eau</strong> : buanderie, garage, WC supplémentaire</li>
+<li><strong>Mise en conformité</strong> : remplacement des canalisations en plomb</li>
+</ul>
+
+<h2>Demandez votre devis</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>reseaux-eau-sanitaires-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>20</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- SILO 5 : QUI SOMMES-NOUS (REASSURANCE)       -->
+  <!-- ============================================ -->
+
+  <!-- PAGE : Artisan chauffagiste de proximité -->
+  <item>
+    <title>Votre Artisan Chauffagiste de Proximité - Art et Confort</title>
+    <link>https://art-et-confort.com/artisan-chauffagiste-proximite-lens-bethune/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Votre Artisan Chauffagiste de Proximité</h1>
+
+<p><strong>Art et Confort</strong>, c'est avant tout <strong>François Watrelot</strong>, artisan plombier chauffagiste installé à <strong>Auchy-les-Mines (62)</strong> depuis plus de 15 ans. Un seul interlocuteur du devis à la réception des travaux, pour une relation de confiance et un travail soigné.</p>
+
+<h2>Qui suis-je ?</h2>
+<p>Je suis François Watrelot, gérant d'Art et Confort. Passionné par mon métier, j'ai choisi de rester un <strong>artisan à taille humaine</strong> pour garantir à chaque client :</p>
+<ul>
+<li><strong>Un contact direct</strong> : c'est moi qui vous réponds, qui réalise le devis et qui effectue les travaux</li>
+<li><strong>Un travail soigné</strong> : je traite chaque chantier comme si c'était chez moi</li>
+<li><strong>Des conseils honnêtes</strong> : je vous oriente vers la solution la plus adaptée, pas la plus chère</li>
+<li><strong>Le respect des délais et du budget</strong> : pas de mauvaise surprise</li>
+</ul>
+
+<h2>Mes compétences</h2>
+<ul>
+<li><strong>Plomberie</strong> : <a href="/plombier-lens-bethune/">dépannage, installation, rénovation</a></li>
+<li><strong>Chauffage</strong> : <a href="/pose-remplacement-chaudiere-lens-bethune/">chaudières</a>, <a href="/installation-pompe-a-chaleur-lens-bethune/">pompes à chaleur</a>, <a href="/installation-poeles-inserts-lens-bethune/">poêles</a></li>
+<li><strong>Climatisation</strong> : <a href="/installation-climatisation-reversible-lens-bethune/">installation et dépannage</a></li>
+<li><strong>Sanitaire</strong> : <a href="/renovation-salle-de-bain-lens-bethune/">rénovation de salle de bain</a></li>
+<li><strong>Énergie solaire</strong> : <a href="/panneaux-solaires-photovoltaiques-lens-bethune/">panneaux photovoltaïques</a></li>
+</ul>
+
+<h2>Mes certifications</h2>
+<p>Je suis <strong>certifié RGE</strong> (Reconnu Garant de l'Environnement), ce qui vous garantit un travail conforme et l'accès aux aides de l'État. <a href="/installateur-rge-lens-bethune/">En savoir plus sur mes certifications</a>.</p>
+
+<h2>Ce que disent mes clients</h2>
+<blockquote>
+<p>"Très réactifs concernant mon problème de robinet cassé. Réparation dans la soirée et à un tarif très raisonnable." — <strong>Looping N.</strong></p>
+</blockquote>
+<blockquote>
+<p>"Même le dimanche soir il vous dépanne votre chaudière. Art et Confort, ils sont au top !" — <strong>Didier D.</strong></p>
+</blockquote>
+<p><a href="/avis-clients-art-et-confort/">Voir tous les avis clients</a></p>
+
+<h2>Contactez-moi</h2>
+<p><strong>Art et Confort - François Watrelot</strong><br>
+28 Rue Casimir Beugnet, 62138 Auchy-les-Mines<br>
+Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>artisan-chauffagiste-proximite-lens-bethune</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>21</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Zone d'intervention -->
+  <item>
+    <title>Zone d'Intervention : Lens, Béthune, Artois - Art et Confort</title>
+    <link>https://art-et-confort.com/zone-intervention-lens-bethune-artois/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Notre Zone d'Intervention : Lens, Béthune et Artois</h1>
+
+<p><strong>Art et Confort</strong> intervient dans un rayon de 30 km autour d'<strong>Auchy-les-Mines (62)</strong> pour tous vos travaux de plomberie, chauffage, climatisation et rénovation. Voici la liste des principales communes desservies.</p>
+
+<h2>Secteur Lens</h2>
+<ul>
+<li><strong>Lens</strong> (62300)</li>
+<li><strong>Liévin</strong> (62800)</li>
+<li><strong>Avion</strong> (62210)</li>
+<li><strong>Méricourt</strong> (62680)</li>
+<li><strong>Sallaumines</strong> (62430)</li>
+<li><strong>Loos-en-Gohelle</strong> (62750)</li>
+<li><strong>Grenay</strong> (62160)</li>
+<li><strong>Bully-les-Mines</strong> (62160)</li>
+<li><strong>Mazingarbe</strong> (62670)</li>
+<li><strong>Wingles</strong> (62410)</li>
+<li><strong>Harnes</strong> (62440)</li>
+<li><strong>Courrières</strong> (62710)</li>
+</ul>
+
+<h2>Secteur Béthune</h2>
+<ul>
+<li><strong>Béthune</strong> (62400)</li>
+<li><strong>Bruay-la-Buissière</strong> (62700)</li>
+<li><strong>Nœux-les-Mines</strong> (62290)</li>
+<li><strong>Barlin</strong> (62620)</li>
+<li><strong>Houdain</strong> (62150)</li>
+<li><strong>Divion</strong> (62460)</li>
+<li><strong>Beuvry</strong> (62660)</li>
+<li><strong>Annezin</strong> (62232)</li>
+<li><strong>Labourse</strong> (62113)</li>
+<li><strong>Sailly-Labourse</strong> (62113)</li>
+<li><strong>Vermelles</strong> (62980)</li>
+<li><strong>Cambrin</strong> (62149)</li>
+</ul>
+
+<h2>Secteur Hénin-Beaumont</h2>
+<ul>
+<li><strong>Hénin-Beaumont</strong> (62110)</li>
+<li><strong>Carvin</strong> (62220)</li>
+<li><strong>Libercourt</strong> (62820)</li>
+<li><strong>Montigny-en-Gohelle</strong> (62640)</li>
+<li><strong>Rouvroy</strong> (62320)</li>
+<li><strong>Dourges</strong> (62119)</li>
+<li><strong>Oignies</strong> (62590)</li>
+</ul>
+
+<h2>Secteur La Bassée / Auchy</h2>
+<ul>
+<li><strong>Auchy-les-Mines</strong> (62138) — siège d'Art et Confort</li>
+<li><strong>La Bassée</strong> (59480)</li>
+<li><strong>Douvrin</strong> (62138)</li>
+<li><strong>Billy-Berclau</strong> (62138)</li>
+<li><strong>Haisnes</strong> (62138)</li>
+<li><strong>Violaines</strong> (62138)</li>
+<li><strong>Festubert</strong> (62149)</li>
+<li><strong>Givenchy-lès-la-Bassée</strong> (62149)</li>
+</ul>
+
+<h2>Secteur Arras</h2>
+<ul>
+<li><strong>Arras</strong> (62000)</li>
+<li><strong>Saint-Laurent-Blangy</strong> (62223)</li>
+<li><strong>Achicourt</strong> (62217)</li>
+<li><strong>Sainte-Catherine</strong> (62223)</li>
+</ul>
+
+<h2>Vous ne trouvez pas votre commune ?</h2>
+<p>Contactez-nous ! Nous intervenons dans de nombreuses autres communes du Pas-de-Calais et du Nord. N'hésitez pas à nous appeler pour vérifier.</p>
+
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>zone-intervention-lens-bethune-artois</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>22</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Certifications RGE -->
+  <item>
+    <title>Nos Certifications RGE - Art et Confort</title>
+    <link>https://art-et-confort.com/certifications-rge-art-et-confort/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Nos Certifications RGE</h1>
+
+<p><strong>Art et Confort</strong> est une entreprise <strong>certifiée RGE</strong> (Reconnu Garant de l'Environnement). Ces certifications, délivrées par des organismes indépendants accrédités, garantissent notre compétence pour réaliser vos travaux de rénovation énergétique dans les règles de l'art.</p>
+
+<h2>QualiPAC</h2>
+<p>Certification pour l'installation et la maintenance des <strong>pompes à chaleur</strong> (aérothermie et géothermie) et des <strong>chauffe-eau thermodynamiques</strong>.</p>
+<ul>
+<li><a href="/installation-pompe-a-chaleur-lens-bethune/">Installation de pompe à chaleur</a></li>
+<li><a href="/installation-climatisation-reversible-lens-bethune/">Installation de climatisation réversible</a></li>
+<li><a href="/entretien-pompe-a-chaleur-lens-bethune/">Entretien de PAC</a></li>
+</ul>
+
+<h2>QualiBois</h2>
+<p>Certification pour l'installation d'appareils de <strong>chauffage au bois</strong> : poêles à bois, poêles à granulés, inserts, foyers fermés et chaudières à bois.</p>
+<ul>
+<li><a href="/installation-poeles-inserts-lens-bethune/">Installation de poêles et inserts</a></li>
+<li><a href="/ramonage-entretien-poeles-inserts-lens-bethune/">Ramonage et entretien</a></li>
+</ul>
+
+<h2>Professionnel du Gaz (PG)</h2>
+<p>Habilitation pour l'installation, la mise en service et la maintenance de tous les <strong>appareils fonctionnant au gaz</strong> : chaudières, chauffe-eau, cuisinières, plaques de cuisson.</p>
+<ul>
+<li><a href="/pose-remplacement-chaudiere-lens-bethune/">Pose et remplacement de chaudière gaz</a></li>
+<li><a href="/contrat-entretien-chaudiere-lens-bethune/">Entretien de chaudière gaz</a></li>
+</ul>
+
+<h2>Chauffage+</h2>
+<p>Label de qualité pour la <strong>pose et l'entretien des systèmes de chauffage central</strong>. Garantit le respect des normes et DTU en vigueur.</p>
+
+<h2>Assurance décennale</h2>
+<p>Tous nos travaux sont couverts par une <strong>assurance décennale</strong> (garantie 10 ans). Vous êtes protégé en cas de désordre affectant la solidité de l'ouvrage ou le rendant impropre à sa destination.</p>
+
+<h2>Vérifiez nos certifications</h2>
+<p>Nos certifications sont vérifiables sur le site officiel <strong>france-renov.gouv.fr</strong>. Recherchez "Art et Confort" ou "Watrelot" à Auchy-les-Mines (62138).</p>
+
+<p><a href="/installateur-rge-lens-bethune/">Pourquoi choisir un artisan RGE ?</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>certifications-rge-art-et-confort</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>23</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Avis clients -->
+  <item>
+    <title>Avis Clients - Art et Confort</title>
+    <link>https://art-et-confort.com/avis-clients-art-et-confort/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Avis Clients - Art et Confort</h1>
+
+<p>La satisfaction de nos clients est notre meilleure carte de visite. Voici les témoignages de personnes qui ont fait confiance à <strong>Art et Confort</strong> pour leurs travaux de plomberie et de chauffage à Lens, Béthune et dans le Bassin Minier.</p>
+
+<h2>Nos avis Google (5/5)</h2>
+
+<h3>Vincent Pasquier</h3>
+<p>"J'ai fait appel à cet artisan pour changer mon chauffe-eau et il a été très réactif sur son offre et transparent. L'intervention s'est faite quelques jours après avec rapidité, sérieux et efficacité. Je recommande ! Très consciencieux. Merci."</p>
+
+<h3>Looping Norton</h3>
+<p>"Très réactifs concernant mon problème de robinet cassé. Réparation dans la soirée et à un tarif très raisonnable."</p>
+
+<h3>Myriam Van Lierde</h3>
+<p>"Avons beaucoup apprécié les travaux réalisés ce jour. Remplacement des toilettes, du lave-mains et remplacement du mitigeur cuisine. Excellent travail et professionnel très agréable. À recommander."</p>
+
+<h3>Clothilde Dhuy</h3>
+<p>"J'ai récemment fait appel à la société Art et Confort pour un souci de plomberie à mon domicile à Lens. Monsieur Watrelot est intervenu : professionnel, efficace et très respectueux. Il a su expliquer clairement les travaux nécessaires et a laissé l'espace impeccable une fois le travail terminé. Les tarifs étaient justes et bien détaillés."</p>
+
+<h3>Van Marteau</h3>
+<p>"Je recommande la société Art et Confort car son gérant Monsieur Watrelot est un bon professionnel sympathique, souriant. Nous avons fait appel deux fois et nous ne regrettons pas du tout."</p>
+
+<h3>Didier Dacquignie</h3>
+<p>"Très content de Art et Confort. Même le dimanche soir il vous dépanne votre chaudière. Art et Confort, ils sont au top. Je vous les conseille fortement."</p>
+
+<h3>Christelle Pégiel</h3>
+<p>"Rénovation INTÉGRALE de notre salle de bain. Un travail complet qui a démontré toute l'étendue du talent de M. Watrelot (avec CEDEO). Un professionnel à l'écoute, réellement soucieux de répondre à ce que l'on souhaite. Nous sommes enchantés du résultat qui a concrétisé ce que nous projetions. Une confiance totale en ce professionnel. UN GRAND MERCI !"</p>
+
+<h2>Laissez votre avis</h2>
+<p>Vous êtes client d'Art et Confort ? Partagez votre expérience sur notre fiche Google Business. Votre retour nous aide à nous améliorer et aide d'autres personnes à faire leur choix.</p>
+
+<h2>Contactez-nous</h2>
+<p>Téléphone : <a href="tel:0688803229">06 88 80 32 29</a><br>
+Email : <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>avis-clients-art-et-confort</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>24</wp:menu_order>
+  </item>
+
+  <!-- PAGE : Contact -->
+  <item>
+    <title>Contact - Art et Confort</title>
+    <link>https://art-et-confort.com/contact/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[
+<h1>Contactez Art et Confort</h1>
+
+<p>Vous avez un projet de plomberie, chauffage, climatisation ou rénovation ? Besoin d'un dépannage en urgence ? Contactez <strong>François Watrelot</strong>, votre artisan plombier chauffagiste à Lens et Béthune.</p>
+
+<h2>Coordonnées</h2>
+<p><strong>Art et Confort</strong><br>
+François Watrelot<br>
+28 Rue Casimir Beugnet<br>
+62138 Auchy-les-Mines</p>
+
+<p><strong>Téléphone :</strong> <a href="tel:0688803229">06 88 80 32 29</a><br>
+<strong>Email :</strong> <a href="mailto:watrelot.francois@free.fr">watrelot.francois@free.fr</a></p>
+
+<h2>Horaires</h2>
+<ul>
+<li><strong>Lundi au vendredi</strong> : 8h00 - 18h00</li>
+<li><strong>Samedi</strong> : sur rendez-vous</li>
+<li><strong>Urgences</strong> : contactez-nous par téléphone, nous faisons notre maximum pour intervenir rapidement, y compris le week-end</li>
+</ul>
+
+<h2>Demande de devis gratuit</h2>
+<p>Décrivez votre projet ou votre problème et nous vous recontactons sous 24h avec un devis clair et détaillé. <strong>Tous nos devis sont gratuits et sans engagement.</strong></p>
+
+<h2>Zone d'intervention</h2>
+<p>Nous intervenons à Lens, Béthune, Arras, Liévin, Hénin-Beaumont, Bruay-la-Buissière, Nœux-les-Mines, Auchy-les-Mines et dans tout le Bassin Minier (62). <a href="/zone-intervention-lens-bethune-artois/">Voir la zone complète</a>.</p>
+]]></content:encoded>
+    <wp:post_type>page</wp:post_type>
+    <wp:status>draft</wp:status>
+    <wp:post_name>contact</wp:post_name>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>25</wp:menu_order>
+  </item>
+
+  <!-- ============================================ -->
+  <!-- MENU PRINCIPAL (nav_menu)                     -->
+  <!-- ============================================ -->
+
+  <!-- Menu container -->
+  <item>
+    <title>Menu Principal</title>
+    <link>https://art-et-confort.com/menu-principal/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:status>publish</wp:status>
+    <wp:post_name>menu-principal</wp:post_name>
+    <wp:menu_order>0</wp:menu_order>
+  </item>
+
+</channel>
+</rss>
