@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Background circle -->
+  <circle cx="200" cy="230" r="180" fill="#E8F4F8"/>
+  <circle cx="200" cy="230" r="150" fill="#D1ECF4"/>
+
+  <!-- Legs -->
+  <rect x="155" y="340" width="35" height="90" rx="8" fill="#2C5F7C"/>
+  <rect x="210" y="340" width="35" height="90" rx="8" fill="#245270"/>
+
+  <!-- Shoes -->
+  <ellipse cx="172" cy="432" rx="25" ry="12" fill="#1A3A4A"/>
+  <ellipse cx="227" cy="432" rx="25" ry="12" fill="#153348"/>
+
+  <!-- Body / Overalls -->
+  <path d="M140 200 C140 175, 155 160, 200 155 C245 160, 260 175, 260 200 L265 350 C265 355, 260 358, 255 358 L145 358 C140 358, 135 355, 135 350 Z" fill="#0490AC"/>
+
+  <!-- Belt -->
+  <rect x="140" y="260" width="120" height="15" rx="3" fill="#2C5F7C"/>
+  <rect x="190" y="258" width="20" height="19" rx="3" fill="#D4A846"/>
+
+  <!-- Overall straps -->
+  <path d="M165 200 L175 155 L185 155 L170 200 Z" fill="#037A91"/>
+  <path d="M235 200 L225 155 L215 155 L230 200 Z" fill="#037A91"/>
+
+  <!-- Pocket -->
+  <rect x="170" y="280" width="60" height="35" rx="5" fill="#037A91"/>
+  <line x1="200" y1="280" x2="200" y2="315" stroke="#0490AC" stroke-width="2"/>
+
+  <!-- Wrench sticking out of pocket -->
+  <rect x="215" y="265" width="8" height="30" rx="2" fill="#8B9DAF" transform="rotate(-15 219 280)"/>
+  <rect x="210" y="258" width="18" height="10" rx="3" fill="#8B9DAF" transform="rotate(-15 219 263)"/>
+
+  <!-- Arms -->
+  <!-- Left arm holding pipe -->
+  <path d="M140 200 C120 210, 105 240, 100 270 C95 285, 100 295, 110 290" fill="#F4C5A0" stroke="#E8B08A" stroke-width="2"/>
+  <!-- Right arm with tool -->
+  <path d="M260 200 C280 215, 295 240, 300 265 C305 280, 298 290, 290 285" fill="#F4C5A0" stroke="#E8B08A" stroke-width="2"/>
+
+  <!-- Left hand holding pipe wrench -->
+  <circle cx="108" cy="285" r="12" fill="#F4C5A0"/>
+  <!-- Pipe wrench -->
+  <rect x="80" y="270" width="45" height="10" rx="3" fill="#E74C3C"/>
+  <rect x="75" y="265" width="12" height="20" rx="2" fill="#C0392B"/>
+
+  <!-- Right hand with thumbs up -->
+  <circle cx="292" cy="280" r="12" fill="#F4C5A0"/>
+  <rect x="288" y="258" width="8" height="20" rx="4" fill="#F4C5A0"/>
+
+  <!-- Head -->
+  <ellipse cx="200" cy="130" rx="48" ry="52" fill="#F4C5A0"/>
+
+  <!-- Hair -->
+  <path d="M155 115 C155 85, 175 68, 200 65 C225 68, 245 85, 245 115 C245 100, 235 88, 200 85 C165 88, 155 100, 155 115 Z" fill="#5C3A1E"/>
+
+  <!-- Cap -->
+  <path d="M148 110 C148 88, 170 72, 200 70 C230 72, 252 88, 252 110 L252 118 C252 118, 230 108, 200 106 C170 108, 148 118, 148 118 Z" fill="#0490AC"/>
+  <rect x="142" y="112" width="116" height="10" rx="3" fill="#037A91"/>
+  <!-- Cap brim -->
+  <path d="M200 115 C230 115, 260 118, 272 122 L270 128 C258 124, 230 121, 200 121 Z" fill="#037A91"/>
+
+  <!-- Eyes -->
+  <ellipse cx="182" cy="130" rx="5" ry="6" fill="#2C3E50"/>
+  <ellipse cx="218" cy="130" rx="5" ry="6" fill="#2C3E50"/>
+  <circle cx="184" cy="128" r="2" fill="white"/>
+  <circle cx="220" cy="128" r="2" fill="white"/>
+
+  <!-- Smile -->
+  <path d="M185 148 C190 158, 210 158, 215 148" stroke="#C0392B" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Eyebrows -->
+  <path d="M174 120 C178 116, 186 116, 190 120" stroke="#5C3A1E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M210 120 C214 116, 222 116, 226 120" stroke="#5C3A1E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Water drops decoration -->
+  <path d="M320 150 C320 140, 330 130, 330 140 C330 148, 320 155, 320 150 Z" fill="#3498DB" opacity="0.6"/>
+  <path d="M340 180 C340 173, 347 166, 347 173 C347 179, 340 184, 340 180 Z" fill="#3498DB" opacity="0.4"/>
+  <path d="M70 170 C70 160, 80 150, 80 160 C80 168, 70 175, 70 170 Z" fill="#3498DB" opacity="0.5"/>
+  <path d="M55 210 C55 203, 62 196, 62 203 C62 209, 55 214, 55 210 Z" fill="#3498DB" opacity="0.3"/>
+
+  <!-- Small tools/icons decoration -->
+  <!-- Gear -->
+  <circle cx="330" cy="320" r="15" fill="none" stroke="#0490AC" stroke-width="3" opacity="0.3"/>
+  <circle cx="330" cy="320" r="6" fill="none" stroke="#0490AC" stroke-width="2" opacity="0.3"/>
+
+  <!-- Pipe icon -->
+  <path d="M60 300 L60 330 L90 330" stroke="#0490AC" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- Text banner -->
+  <rect x="100" y="455" width="200" height="35" rx="17" fill="#0490AC"/>
+  <text x="200" y="478" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VOTRE ARTISAN DE CONFIANCE</text>
+</svg>

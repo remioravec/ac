@@ -1,0 +1,6 @@
+*.zip
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
