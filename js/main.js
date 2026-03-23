@@ -41,22 +41,24 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  // Contact form - AJAX submission
+  // Contact form - AJAX submission with modal popup
   var contactForm = document.getElementById('contact-form');
-  var statusDiv = document.getElementById('form-status');
-  if (contactForm && statusDiv) {
+  var errorDiv = document.getElementById('form-error');
+  var modal = document.getElementById('thank-you-modal');
+  var modalCloseBtn = document.getElementById('modal-close-btn');
+
+  if (contactForm) {
     // Handle URL params (fallback for non-JS)
     var params = new URLSearchParams(window.location.search);
     var urlStatus = params.get('status');
-    if (urlStatus === 'success') {
-      statusDiv.innerHTML = '<div class="alert alert-success">Merci pour votre message ! Nous vous recontacterons sous 24h.</div>';
-      contactForm.style.display = 'none';
-    } else if (urlStatus === 'error') {
+    if (urlStatus === 'success' && modal) {
+      modal.classList.add('active');
+    } else if (urlStatus === 'error' && errorDiv) {
       var msg = params.get('msg');
       var text = 'Une erreur est survenue. Veuillez réessayer.';
       if (msg === 'champs') text = 'Veuillez remplir tous les champs obligatoires.';
       if (msg === 'email') text = 'Adresse email invalide.';
-      statusDiv.innerHTML = '<div class="alert alert-error">' + text + '</div>';
+      errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + text + '</div>';
     }
 
     // AJAX submit
@@ -66,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var originalText = btn.innerHTML;
       btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Envoi en cours...';
       btn.disabled = true;
-      statusDiv.innerHTML = '';
+      if (errorDiv) errorDiv.innerHTML = '';
 
       var formData = new FormData(contactForm);
 
@@ -77,23 +79,39 @@ document.addEventListener('DOMContentLoaded', function() {
       })
       .then(function(response) { return response.json(); })
       .then(function(data) {
+        btn.innerHTML = originalText;
+        btn.disabled = false;
         if (data.success) {
-          statusDiv.innerHTML = '<div class="alert alert-success"><i class="fas fa-check-circle"></i> Merci pour votre message ! Nous vous recontacterons sous 24h.</div>';
           contactForm.reset();
-          contactForm.style.display = 'none';
-          statusDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          if (modal) modal.classList.add('active');
         } else {
-          statusDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + (data.error || 'Erreur lors de l\'envoi.') + '</div>';
-          btn.innerHTML = originalText;
-          btn.disabled = false;
+          if (errorDiv) {
+            errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + (data.error || 'Erreur lors de l\'envoi.') + '</div>';
+            errorDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
         }
       })
       .catch(function() {
-        statusDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> Erreur de connexion. Appelez-nous au <a href="tel:0688803229">06 88 80 32 29</a>.</div>';
         btn.innerHTML = originalText;
         btn.disabled = false;
+        if (errorDiv) {
+          errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> Erreur de connexion. Appelez-nous au <a href="tel:0688803229">06 88 80 32 29</a>.</div>';
+          errorDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
       });
     });
+
+    // Close modal
+    if (modalCloseBtn && modal) {
+      modalCloseBtn.addEventListener('click', function() {
+        modal.classList.remove('active');
+      });
+    }
+    if (modal) {
+      modal.addEventListener('click', function(e) {
+        if (e.target === modal) modal.classList.remove('active');
+      });
+    }
   }
 
 
