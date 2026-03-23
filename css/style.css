@@ -1605,9 +1605,11 @@ div.page-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg);
   transition: var(--transition);
 }
 .accordion-header:hover { color: var(--gray-900); }
-.accordion-body { padding: 0 1.25rem 1rem; display: none; }
+.accordion-body,
+.accordion-content { padding: 0 1.25rem 1rem; display: none; }
 .accordion-item.active { border-color: var(--blue-300); box-shadow: 0 0 0 3px rgba(59,130,246,0.06); }
-.accordion-item.active .accordion-body { display: block; }
+.accordion-item.active .accordion-body,
+.accordion-item.active .accordion-content { display: block; }
 .accordion-item.active .accordion-header { color: var(--blue-600); }
 
 /* ============================================
