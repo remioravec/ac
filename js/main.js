@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
       errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + text + '</div>';
     }
 
-    // AJAX submit
+    // AJAX submit via FormSubmit
     contactForm.addEventListener('submit', function(e) {
       e.preventDefault();
       var btn = document.getElementById('submit-btn');
@@ -72,21 +72,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
       var formData = new FormData(contactForm);
 
-      fetch('/contact.php', {
+      fetch(contactForm.action, {
         method: 'POST',
-        headers: { 'X-Requested-With': 'XMLHttpRequest' },
+        headers: { 'Accept': 'application/json' },
         body: formData
       })
       .then(function(response) { return response.json(); })
       .then(function(data) {
         btn.innerHTML = originalText;
         btn.disabled = false;
-        if (data.success) {
+        if (data.success === 'true' || data.success === true) {
           contactForm.reset();
           if (modal) modal.classList.add('active');
         } else {
           if (errorDiv) {
-            errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + (data.error || 'Erreur lors de l\'envoi.') + '</div>';
+            errorDiv.innerHTML = '<div class="alert alert-error"><i class="fas fa-exclamation-circle"></i> ' + (data.message || 'Erreur lors de l\'envoi. Appelez-nous au 06 88 80 32 29.') + '</div>';
             errorDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
         }

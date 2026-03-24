@@ -131,30 +131,35 @@
   <div class="two-col">
    <div>
     <div id="form-error"></div>
-    <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+    <form class="contact-form" id="contact-form" action="https://formsubmit.co/ajax/watrelot.francois@free.fr" method="POST">
+     <input type="hidden" name="_cc" value="orvcremi@gmail.com">
+     <input type="hidden" name="_subject" value="Art et Confort - Nouveau message depuis le site">
+     <input type="hidden" name="_template" value="table">
+     <input type="hidden" name="_captcha" value="false">
+     <input type="text" name="_honey" style="display:none">
      <div class="form-row">
       <div class="form-group">
        <label for="nom">Nom complet *</label>
-       <input type="text" id="nom" name="nom" required placeholder="Votre nom et prénom">
+       <input type="text" id="nom" name="Nom" required placeholder="Votre nom et prénom">
       </div>
       <div class="form-group">
        <label for="telephone">Téléphone *</label>
-       <input type="tel" id="telephone" name="telephone" required placeholder="06 00 00 00 00">
+       <input type="tel" id="telephone" name="Telephone" required placeholder="06 00 00 00 00">
       </div>
      </div>
      <div class="form-row">
       <div class="form-group">
        <label for="email">Email *</label>
-       <input type="email" id="email" name="email" required placeholder="votre@email.fr">
+       <input type="email" id="email" name="Email" required placeholder="votre@email.fr">
       </div>
       <div class="form-group">
        <label for="ville">Ville *</label>
-       <input type="text" id="ville" name="ville" required placeholder="Lens, Béthune, Arras...">
+       <input type="text" id="ville" name="Ville" required placeholder="Lens, Béthune, Arras...">
       </div>
      </div>
      <div class="form-group">
       <label for="sujet">Sujet *</label>
-      <select id="sujet" name="sujet" required>
+      <select id="sujet" name="Sujet" required>
        <option value="">-- Choisissez un sujet --</option>
        <option value="Demande de devis">Demande de devis</option>
        <option value="Dépannage / Urgence">Dépannage / Urgence</option>
@@ -167,10 +172,8 @@
      </div>
      <div class="form-group">
       <label for="message">Message *</label>
-      <textarea id="message" name="message" rows="5" required placeholder="Décrivez votre projet ou votre problème..."></textarea>
+      <textarea id="message" name="Message" rows="5" required placeholder="Décrivez votre projet ou votre problème..."></textarea>
      </div>
-     <!-- Anti-spam honeypot -->
-     <div style="position:absolute;left:-9999px;"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
      <button type="submit" id="submit-btn" class="btn btn-primary btn-lg" style="width:100%;justify-content:center;"><i class="fas fa-paper-plane"></i> Envoyer le message</button>
     </form>
    </div>
