@@ -8,22 +8,42 @@
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
- <link rel="icon" type="image/png" href="/images/logo.png">
+ <link rel="icon" href="/favicon.ico" sizes="48x48">
+ <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+ <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+ <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+ <link rel="manifest" href="/site.webmanifest">
+ <meta name="theme-color" content="#3b82f6">
  <link rel="stylesheet" href="/css/style.css">
  <script type="application/ld+json">
  {
   "@context": "https://schema.org",
   "@type": "Plumber",
+  "@id": "https://art-et-confort.com/#organization",
   "name": "Art et Confort",
+  "alternateName": "Art et Confort - François Watrelot",
+  "description": "Plombier chauffagiste certifié RGE à Auchy-les-Mines. Installation, entretien et dépannage de chaudières, pompes à chaleur, climatisation et plomberie. Intervention Lens, Béthune, Arras et Pas-de-Calais (62). Plus de 15 ans d'expérience.",
   "image": "https://art-et-confort.com/images/logo.png",
+  "logo": {
+   "@type": "ImageObject",
+   "url": "https://art-et-confort.com/images/logo.png",
+   "width": 1079,
+   "height": 1080
+  },
   "url": "https://art-et-confort.com",
   "telephone": "+33688803229",
   "email": "watrelot.francois@free.fr",
+  "founder": {
+   "@type": "Person",
+   "name": "François Watrelot",
+   "jobTitle": "Artisan plombier chauffagiste"
+  },
   "address": {
    "@type": "PostalAddress",
    "streetAddress": "28 Rue Casimir Beugnet",
    "addressLocality": "Auchy-les-Mines",
    "postalCode": "62138",
+   "addressRegion": "Pas-de-Calais",
    "addressCountry": "FR"
   },
   "geo": {
@@ -31,15 +51,105 @@
    "latitude": 50.5167,
    "longitude": 2.7833
   },
+  "areaServed": [
+   {
+    "@type": "City",
+    "name": "Lens",
+    "sameAs": "https://fr.wikipedia.org/wiki/Lens_(Pas-de-Calais)"
+   },
+   {
+    "@type": "City",
+    "name": "Béthune",
+    "sameAs": "https://fr.wikipedia.org/wiki/Béthune"
+   },
+   {
+    "@type": "City",
+    "name": "Arras",
+    "sameAs": "https://fr.wikipedia.org/wiki/Arras"
+   },
+   {
+    "@type": "City",
+    "name": "Liévin"
+   },
+   {
+    "@type": "City",
+    "name": "Hénin-Beaumont"
+   },
+   {
+    "@type": "City",
+    "name": "Bruay-la-Buissière"
+   },
+   {
+    "@type": "City",
+    "name": "Nœux-les-Mines"
+   },
+   {
+    "@type": "City",
+    "name": "Auchy-les-Mines"
+   },
+   {
+    "@type": "City",
+    "name": "La Bassée"
+   },
+   {
+    "@type": "AdministrativeArea",
+    "name": "Pas-de-Calais (62)"
+   }
+  ],
   "openingHoursSpecification": [
    {
     "@type": "OpeningHoursSpecification",
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "opens": "08:00",
     "closes": "18:00"
+   },
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Saturday",
+    "opens": "08:00",
+    "closes": "18:00",
+    "description": "Sur rendez-vous uniquement"
    }
   ],
   "priceRange": "€€",
+  "currenciesAccepted": "EUR",
+  "paymentAccepted": "Chèque, Virement bancaire, Paiement en plusieurs fois",
+  "hasCredential": [
+   {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "certification",
+    "name": "RGE - Reconnu Garant de l'Environnement"
+   },
+   {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "certification",
+    "name": "Qualibat"
+   }
+  ],
+  "knowsAbout": [
+   "Pompe à chaleur air-eau",
+   "Pompe à chaleur air-air",
+   "Chaudière gaz condensation",
+   "Chaudière granulés",
+   "Climatisation réversible",
+   "Climatisation mono-split",
+   "Climatisation multi-split",
+   "Climatisation gainable",
+   "Chauffe-eau thermodynamique",
+   "Chauffe-eau électrique",
+   "Plomberie sanitaire",
+   "Rénovation salle de bain",
+   "Dépannage chauffage",
+   "Entretien chaudière",
+   "Ramonage",
+   "Recherche de fuite"
+  ],
+  "slogan": "Votre confort, notre métier",
+  "foundingDate": "2009",
+  "numberOfEmployees": {
+   "@type": "QuantitativeValue",
+   "value": 1
+  },
   "aggregateRating": {
    "@type": "AggregateRating",
    "ratingValue": "5",
@@ -89,14 +199,89 @@
    "@type": "OfferCatalog",
    "name": "Services de plomberie et chauffage",
    "itemListElement": [
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Installation de pompe à chaleur" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Pose et remplacement de chaudière" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Installation de climatisation" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Rénovation de salle de bain" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Dépannage chauffage et plomberie" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Entretien chaudière et PAC" } }
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Installation de pompe à chaleur",
+      "description": "Pose de pompes à chaleur air-eau et air-air. Jusqu'à 70% d'économies d'énergie. Éligible aux aides de l'État (MaPrimeRénov', CEE).",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Pose et remplacement de chaudière",
+      "description": "Installation de chaudières gaz condensation et granulés. Remplacement de chaudières anciennes (fioul, gaz). Artisan RGE certifié.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Installation de climatisation",
+      "description": "Installation de climatisations réversibles mono-split, multi-split et gainables. Chaud et frais toute l'année.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Remplacement de chauffe-eau",
+      "description": "Installation de chauffe-eaux électriques, thermodynamiques et gaz. Remplacement dans la journée.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Rénovation de salle de bain",
+      "description": "Rénovation complète de salles de bain. Plomberie, carrelage, sanitaires. Projet clé en main.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Dépannage chauffage et plomberie",
+      "description": "Dépannage urgent de chaudières, pompes à chaleur, climatisations et plomberie. Intervention sous 24h, disponible 7j/7 par téléphone.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Entretien chaudière et PAC",
+      "description": "Entretien annuel obligatoire de chaudières, pompes à chaleur et climatisations. Contrats d'entretien pour votre tranquillité.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Plomberie sanitaire",
+      "description": "Installations sanitaires, robinetterie, recherche et réparation de fuites, réseaux d'eau.",
+      "areaServed": "Pas-de-Calais (62)",
+      "provider": { "@id": "https://art-et-confort.com/#organization" }
+     }
+    }
    ]
-  }
+  },
+  "sameAs": []
  }
  </script>
 </head>
